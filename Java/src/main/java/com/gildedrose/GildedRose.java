@@ -7,11 +7,6 @@ class GildedRose {
     public static final String BACKSTAGE = "Backstage passes to a TAFKAL80ETC concert";
     public static final String CONJURED = "Conjured Mana Cake";
 
-
-    private Item[] items;
-
-
-
     private Item[] items;
 
     public GildedRose(Item... items) {
