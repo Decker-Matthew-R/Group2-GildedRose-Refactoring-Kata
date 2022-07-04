@@ -1,12 +1,21 @@
 # Group 2 Gilded Rose Refactoring Kata  
 #### SWE6733 - Emerging Software Engineering Processes - Dr. Reza Parizi  
 
-#### **Group 2:**
+### **Group 2:**
 Matt Decker  
 Devika Kandel Neupane    
 Ifeanyi Okoye   
 Cameron Mitchel Page 
-
+<br>
+<br>
+<br>
+### The attached documentation is the result of Group 2's work on Assignment 2. All requested screenshots, links, and documentation is present and uploaded in our Final Writeup located at [a relative link](Group2-Assignment2-GildedRose-FinalReport.docx)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
 
 I translated the original C# into a few other languages, (with a little help from my friends!), and slightly changed the starting position. This means I've actually done a small amount of refactoring already compared with the original form of the kata, and made it easier to get going with writing tests by giving you one failing unit test to start with. I also added test fixtures for Text-Based approval testing with TextTest (see [the TextTests](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/master/texttests))
