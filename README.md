@@ -9,7 +9,10 @@ Cameron Mitchel Page
 <br>
 <br>
 <br>
-### The attached documentation is the result of Group 2's work on Assignment 2. All requested screenshots, links, and documentation is present and uploaded in our Final Writeup located at [a relative link](Group2-Assignment2-GildedRose-FinalReport.docx)
+### The attached documentation is the result of Group 2's work on Assignment 2. All requested screenshots, links, and documentation is present and uploaded in our Final Writeup located at [Group2-Assignment2-GildedRose-FinalReport.docx](Group2-Assignment2-GildedRose-FinalReport.docx)
+Please download the file to view all project information.
+<br>
+A link to our mob session video can be found on youtube at: https://youtu.be/SQqcKc8iVXY
 <br>
 <br>
 <br>
