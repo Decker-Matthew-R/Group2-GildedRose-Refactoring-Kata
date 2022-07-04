@@ -18,6 +18,7 @@ class GildedRose {
             updateItemQuality(item);
         }
     }
+    
 
     private void updateItemQuality(Item item) {
 
